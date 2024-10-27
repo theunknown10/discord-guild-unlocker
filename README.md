@@ -1,4 +1,4 @@
-# discord-guild-unlocker
+# Discord guild unlocker
 This software opens up the possibility of creating YOUR own guild in Discord
 
 
