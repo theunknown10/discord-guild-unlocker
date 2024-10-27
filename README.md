@@ -12,8 +12,8 @@ Creating a guild in Discord has traditionally been available only to a limited n
 ## How to use?
 > [!IMPORTANT]
 > 1. User selects the interface language.
-> 2. The user is prompted to link his/her Discord profile to the application for further work
-> 3. The user is prompted to select the Discord.exe process
+> 2. The user is prompted to link his/her Discord profile to the application for further work.
+> 3. The user is prompted to select the Discord.exe process.
 > 4. The script will close the Discord process.
 > 5. After the script is finished, it will start Discord.
 >
@@ -47,10 +47,10 @@ After completing all these steps, you will have your own personal guild in Disco
 ## REQUIREMENTS
 > [!TIP]
  > 1. Make sure you have the latest version of Discord installed on your computer and no additional plugins (such as Better Discord).
- > 2. The .NET Framework 3.5 is required
- > 3. Run as administrator
- > 4. Works on Windows 10 and 11 (tested)
- > 5. Internet connection required
+ > 2. The .NET Framework 3.5 is required.
+ > 3. Run as administrator.
+ > 4. Works on Windows 10 and 11 (tested).
+ > 5. Internet connection required.
 
 
 
